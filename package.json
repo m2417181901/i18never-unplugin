@@ -20,10 +20,10 @@
     "@i18never/client": "^1.1.15",
     "@i18never/shared": "^1.1.15",
     "@i18never/transform": "^1.1.15",
-    "@rollup/pluginutils": "^5.0.2"
+    "@rollup/pluginutils": "^5.0.2",
+    "unplugin": "^1.16.1"
   },
   "devDependencies": {
-    "unplugin": "^1.16.1",
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1"
   }
